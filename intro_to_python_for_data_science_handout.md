@@ -11,21 +11,21 @@
 3. Immersion works. Full-time, live, in-person instruction for 5 months works.
 
 ### What is Data Science?
-- Interdisciplinary applied science at the intersection of programming, business/domain expertise, and statistics
-- The application of the scientific process of hypothesis->experiment->analyze->repeat to analyze and infer outcomes from data.
+- Interdisciplinary applied science at the intersection of programming, statistics, and business/domain expertise.
+- The application of the scientific method of hypothesis-experiment-analyze-repeat to analyze and infer outcomes from data.
 - A broad description of approaches ranging from business analysis and visualizations to machine learning and deep neural network analysis.
 - An increasingly accessible field
 
 ### What *isn't* Data Science?
 - Only statistics or only mathematics (Although we let the computer do the math!)
-- Magic
+- Magic or inaccessible
 
 ### Isn't data science just statistics?
-- See "Future of Data Analysis" Tukey, `https://projecteuclid.org/euclid.aoms/1177704711`
-- See "50 years of data science" Donoho, `https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf`
+- "Future of Data Analysis" by Tukey, `https://projecteuclid.org/euclid.aoms/1177704711`
+- "50 years of data science" by Donoho, `https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf`
 
 ### 3 keys to success that students get from Codeup
-1. In addition to learning data science, you'll learn how to continue learning data science into the future
+1. In addition to learning data science, students learn how to continue learning data science into the future
 2. How to form and ask effective questions, find your own answers, and collaborate in the face of uncertainty (how to get really good at googling stuff and collaborating with people)
 3. How to debug and troubleshoot using the scientific method
 
@@ -34,12 +34,12 @@
 2. Ask questions
 3. What you get out of this is a function of what you put into it
 4. Treat each other with excellence
-5. Try things out! Run code! Experiment with the tools!
+5. Try things out! Run code! Experiment with the material!
 
 ### 6 things you will get from today's workshop
-1. A clear introduction to the Codeup experience
+1. An introduction to the Codeup experience
 2. Introduction to Python fundamentals
-3. Explanation of some mathematical concepts in terms of Python
+3. Explanation of some mathematical notation in terms of Python and English
 4. Intro to popular Python data science libraries and methods
 5. Instructional materials and your own copies of the prepared learning environments
 6. Time to practice with the material including guidance and support on exercises
@@ -86,13 +86,14 @@ Python is a high-level, dynamic, interpreted programming language that has gaine
 
 - General purpose programming language
 - One of the most beginner-friendly languages
-- Industrial strength language for everything from prototyping and heavy industry to PhD research
+- Industrial strength language for everything from heavy industry to PhD research
 - Rapid development cycle, stable libraries, rich ecosystem
 
 ## Setup your Python learning environment
 
 1. Create an account on `https://kaggle.com`
-2. Fork the first notebook for Part I of our workshop
+2. Go to `https://www.kaggle.com/ryanorsinger/intro-to-python`
+3. Click "Fork" to make your own copy so you can experiment.
 
 ### Using Jupyter Notebooks
 
@@ -110,17 +111,28 @@ Python is a high-level, dynamic, interpreted programming language that has gaine
 - None (signifies the absence of value)
 - Functions
 - Sequences
-    - lists 
-    - tuples
-    - sets
+    - lists are denoted by square brackets `[1, 2, 3]`
+    - tuples `(1, 2, 3, 4, 5)`
+    - sets `{1, 2, 3}` 
     - dictionaries
 - Objects
 
 ### Operators and the results of operations 
 
-### Assignment, reassignment, and mutation 
+Operators in programming languages are like math operators like +, -, *, /, etc...
+
+In programming, operators return a value with a data type.
+
+`x = 2` The single equals symbol is called the `assignment operator`. It assigns variables
+
+Some "Boolean operators" are `and`, `or`, and `not`. 
+
+"Comparisson operators" compare values and return a `True` or `False`.
 
 ### Functions
+
+Functions are reusable blocks of code meant to execute a command or scupt data. Often, we build functions to work like operators where they take in inputs, perform a process, and return the output.
+
 ```python
 # This block of code is how we would define a function to square a number
 def square(input):    
@@ -128,33 +140,19 @@ def square(input):
 ```
 
 ```python
-result = square(5) # We assign the result of calling/executing a function to variables
+# We assign the result of calling/executing a function to variables
+fiveSquared = square(5)    # calculates 5 squared
+result = square(square(5)) # calculates the square of 5 squared.
 ```
 
+<hr>
 
+### Part II - Math notation explained with Python
 
-### More compound/complex data types
+- Goto `https://www.kaggle.com/ryanorsinger/mathematical-notation-in-python`
+- Click "Fork" to make your own copy so you can experiment.
 
-- ["square", "brackets", "make", "lists"]
-- tuple ()
-- dictionary {}
-- set
+### Part III - Data Science libraries for Python
 
-
-## Part II - Math notation explained with Python
-
-
-## Part III - intro to data science libraries/methodologies
-```python
-import numpy as np # library for really efficient mathematical computations
-import pandas as pd # like Excel on steroids
-import matplotlib.pyplot as plt 
-from pydataset import data
-```
-
-
-
-
-- Fork `this` notebook for part III
-
-## What Next?
+- Goto `https://www.kaggle.com/ryanorsinger/data-science-intro-in-python`
+- Click "Fork" to make your own copy so you can experiment. 
