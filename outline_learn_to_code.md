@@ -103,5 +103,4 @@ element is not a member of
   - instructions for getting started
 - The "about codeup" part should have already been covered
 - About your instructor
-
 - Ground rules  

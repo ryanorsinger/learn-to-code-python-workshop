@@ -10,32 +10,33 @@
 2. Placement services and quality of network
 3. Immersion works. Full-time, live, in-person instruction for 5 months works.
 
-### Isn't data science just another way to say statistics?
-- See "50 years of data science"
-- Reference Tukey 
-- etc..
-
-### What *is* Data Science?
-- The application of the scientific process of hypothesis->experiment->analyze->repeat to analyze and infer outcomes from data.
+### What is Data Science?
 - Interdisciplinary field at the intersection of programming, business/domain expertise, and applied statistics
-- A broad description of approaches ranging from business analysis and visualizations to machine learning. 
+- The application of the scientific process of hypothesis->experiment->analyze->repeat to analyze and infer outcomes from data.
+- A broad description of approaches ranging from business analysis and visualizations to machine learning and deep neural network analysis.
+- An increasingly accessible field
 
 ### What *isn't* Data Science?
 - Only statistics or only mathematics
 - Magic
 - Going to get more challenging. It's only going to get more accessible and prevalent over time.
 
-### 3 keys to success that students get at Codeup
+### Isn't data science just another way to say statistics?
+- See "Future of Data Analysis" by Tukey 1961, `https://bit.ly/2FsUJgf`
+- See "50 years of data science" by Donoho 2015, `https://bit.ly/2Gh0Rpp`
+- There's also linear algebra, calculus, and more!
+
+### 3 keys to success that students get from Codeup
 1. In addition to learning data science, you'll learn how to continue learning data science into the future
 2. How to form and ask effective questions, find your own answers, and collaborate in the face of uncertainty (how to get really good at googling stuff and collaborating with people)
-3. How to debug and troubleshoot using the scientific methodg
+3. How to debug and troubleshoot using the scientific method
 
-### How to get the most out of this workshop
-- Engage with the material, engage with others
-- Ask questions
-- What you get out of this is a function of what you put into it
-- Treat each other with excellence
-- Try things out! Run code! Experiment with the tools!
+### 5 Ways to get the most out of this workshop
+1. Engage with the material, engage with others
+2. Ask questions
+3. What you get out of this is a function of what you put into it
+4. Treat each other with excellence
+5. Try things out! Run code! Experiment with the tools!
 
 ### 6 things you will get from today's workshop
 1. A clear introduction to the Codeup experience
@@ -46,7 +47,7 @@
 6. Time to practice with the material including guidance and support on exercises
 
 ### What we will *not* deliver today
-- Excel, R, or any other statistical analysis tools
+- Excel, R, SAS, SPSS, or any other statistical analysis tools
 - Everything you need to know about statistics
 - Everything you need to know about Python
 - 5 months worth of practice, exercises, and training
@@ -59,6 +60,10 @@
 Fork `this` notebook to make your own copy our prepared environment for Part I.
 
 ### What is Python and why do we care?
+Python is a high-level, dynamic, interpreted programming language that has gained a lot of popularity in the data science community.
+
+- See `https://docs.python.org/3.6/tutorial/` 
+- `https://learnpythonthehardway.org/python3/`
 
 ### Using Jupyter Notebooks
 - `shift + enter` to run a cell of code
@@ -97,6 +102,7 @@ print(square(3)) # this will return 9
 ```python
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 from pydataset import data
 ```
 

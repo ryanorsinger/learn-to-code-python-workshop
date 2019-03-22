@@ -1,7 +1,7 @@
 # Slide Content
 
 ## Welcome/Setup slide (Office Hours)
-- Wifi network: Codeup 5g
+- Wifi network: `Codeup_6th_Class1_5G`
 - Password is `Geekdom1100`
 - Create an account on `kaggle.com`. This is where we will be setting up our development environment.
 - Take a moment to familiarize yourself with the handout on your desk. This is our roadmap for the day.
@@ -12,7 +12,7 @@
 - 5th year teaching at Codeup
 
 ## What is Data Science
-
+https://bit.ly/2uoAXwo
 
 ## Let's Rock
 - Go `here` and click `fork`
