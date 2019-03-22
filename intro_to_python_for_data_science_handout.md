@@ -11,20 +11,19 @@
 3. Immersion works. Full-time, live, in-person instruction for 5 months works.
 
 ### What is Data Science?
-- Interdisciplinary field at the intersection of programming, business/domain expertise, and applied statistics
+- Interdisciplinary applied science at the intersection of programming, business/domain expertise, and statistics
 - The application of the scientific process of hypothesis->experiment->analyze->repeat to analyze and infer outcomes from data.
 - A broad description of approaches ranging from business analysis and visualizations to machine learning and deep neural network analysis.
 - An increasingly accessible field
 
 ### What *isn't* Data Science?
-- Only statistics or only mathematics
+- Only statistics or only mathematics (Although we let the computer do the math!)
 - Magic
-- Going to get more challenging. It's only going to get more accessible and prevalent over time.
 
-### Isn't data science just another way to say statistics?
+### Isn't data science just statistics?
 - See "Future of Data Analysis" by Tukey 1961, `https://bit.ly/2FsUJgf`
 - See "50 years of data science" by Donoho 2015, `https://bit.ly/2Gh0Rpp`
-- There's also linear algebra, calculus, and more!
+- There's also linear algebra, calculus, and discrete math
 
 ### 3 keys to success that students get from Codeup
 1. In addition to learning data science, you'll learn how to continue learning data science into the future
@@ -43,29 +42,61 @@
 2. Introduction to Python fundamentals
 3. Explanation of mathematical concepts in terms of Python
 4. Intro to some Python data science libraries and methods
-5. Instructional materials and your own copies of our prepared learning environments
+5. Instructional materials and your own copies of the prepared learning environments
 6. Time to practice with the material including guidance and support on exercises
 
-### What we will *not* deliver today
+### What we will *not* cover today
 - Excel, R, SAS, SPSS, or any other statistical analysis tools
-- Everything you need to know about statistics
-- Everything you need to know about Python
-- 5 months worth of practice, exercises, and training
+- Everything you need to know about Python or statistics
+- 5 months worth of practice, exercises, training, and mentoring
 
-### 2 step setup process for your learning environment
+### The five questions Data Science can answer
+
+1. How many or how much of something? What will sales be next year?
+2. Which category does this thing belong to: is this A or B?
+3. Does grouping things provide additional insight? Customer segmentation
+4. Is this weird? Anomaly detection like looking for fraudulent transactions
+5. What should we do next? Infer likely outcomes
+
+### Some Data Science Methodologies
+
+- Regression - predict housing prices
+
+- Classification - predict customers who will churn
+
+- Clustering - identify physical neighborhoods, identify similar species
+
+- Time series analysis - forecast revenue, predict store item demand
+
+- Anomaly Detection - detect fraudulent transactions, account takeovers 
+
+- NLP - Siri, sentiment analysis, twitter bots, customer feedback
+
+- Graph Analysis - social networks, web analytics, page rank
+
+- Recommender Systems - netflix, amazon shopping
+
+- Neural Networks / Deep Learning - image recognition, iPhone X face id
+
+
+## Intro to Python
+
+### What is Python, why should you care?
+
+Python is a high-level, dynamic, interpreted programming language that has gained a lot of popularity in the data science community.
+
+- General purpose programming language
+- One of the most beginner-friendly languages
+- Industrial strength language for everything from prototyping and heavy industry to PhD research
+- Rapid development cycle, stable libraries, rich ecosystem
+
+## Setup your Python learning environment
+
 1. Create an account on `https://kaggle.com`
 2. Fork the first notebook for Part I of our workshop
 
-## Part I - Intro to Python
-Fork `this` notebook to make your own copy our prepared environment for Part I.
-
-### What is Python and why do we care?
-Python is a high-level, dynamic, interpreted programming language that has gained a lot of popularity in the data science community.
-
-- See `https://docs.python.org/3.6/tutorial/` 
-- `https://learnpythonthehardway.org/python3/`
-
 ### Using Jupyter Notebooks
+
 - `shift + enter` to run a cell of code
 
 ### Primitive data types and examples
