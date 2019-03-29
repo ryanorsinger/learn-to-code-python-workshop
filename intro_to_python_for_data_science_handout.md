@@ -12,7 +12,7 @@
 
 ### What is Data Science?
 - Interdisciplinary applied science at the intersection of programming, statistics, and business/domain expertise.
-- The application of the scientific method of hypothesis-experiment-analyze-repeat to analyze and infer outcomes from data.
+- The application of the scientific method of hypothesis-experiment-analyze-repeat to analyze and infer outcomes from data. 
 - A broad description of approaches ranging from business analysis and visualizations to machine learning and deep neural network analysis.
 - An increasingly accessible field
 
@@ -28,6 +28,7 @@
 1. In addition to learning data science, students learn how to continue learning data science into the future
 2. How to form and ask effective questions, find your own answers, and collaborate in the face of uncertainty (how to get really good at googling stuff and collaborating with people)
 3. How to debug and troubleshoot using the scientific method
+
 
 ### 5 Ways to get the most out of this workshop
 1. Engage with the material, engage with others
