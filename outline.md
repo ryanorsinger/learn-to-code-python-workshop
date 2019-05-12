@@ -1,6 +1,6 @@
 # Learn to Code - Python for Data Science
 
-### What and How?
+## What and How?
 - 4 hour intro workshop to python for data science. Heavier on the python, light intro to data science libraries and methods, plenty of exercises and examples
 - 4 page Handout
   - Setup instructions (fork this link on kaggle to start, then fork exercise #2, etc..)
@@ -10,16 +10,25 @@
 - Deliver notebook(s) on kaggle for students to fork, 3 notebooks one for each section of the 4 hour workshop
 - slide deck
 
+## Preparation
+- Request Data Science students or folks proficient in python to volunteer as assistants. 
+- Print out handouts for participants 1-3 days prior to the workshop. We don't need to worry about the printer the morning of the workshop.
+
+## Setup
+- Be sure to have music going when people show up.
+- Have the contents of `welcome.md` showing on the displays for when people show up. Participants should get on the WiFi and create a Kaggle account before the workshop begins.
+
+
 ### Deliverables for attendees: 
 - 4 page handout
 - Jupyter notebooks w/ lesson material, examples, and exercises
 - a 3 act play (intro to python, intro to , do some analysis on `lemonade.csv`)
 
-# What is a data scientists?
+## What is a data scientists?
 - someone who knows more stats than the software engineers
 - someone who knows more software engineering than the statisticians
 
-# 3 act play
+## 3 act play
 0. Setup and expectations and deliver handout (what we're doing today, why we're here)
    (maybe) Activity == ice breaker == data collection
     - take 5 minutes to visit with a person close to you
@@ -43,7 +52,7 @@
 - does distributing more flyers tend to occur with more sales?
 - logistic regression - If it's 100 degrees and I distribute 100 flyers, what will revenue be?
 
-# Intro to Python using Notebooks
+## Intro to Python using Notebooks
 - Intro to data types, variables, and operators
 - Show assignment, reassignment
 - working with sequences and collections
@@ -53,7 +62,7 @@
 - How to lookup the documentation or "how to do XYZ in python"
 - Intro to writing your own functions
 
-# Data Sets for the workshop
+## Data Sets for the workshop
 mpg.csv
 lemonade.csv
 

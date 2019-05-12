@@ -7,8 +7,7 @@ Get yourself setup and on the wifi
     Password: Geekdom1100
 
 Setup:
-    Make yoursellf an account on kaggle.com
+    Make yoursellf an account on https://kaggle.com
     This will be our activity/development environment
-
 
 Grab a handout and go over it :)

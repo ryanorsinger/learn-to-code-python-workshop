@@ -1,13 +1,11 @@
 # Learn to Code Python for Data Science Workshop
 
-## Preparation
-- Request Data Science students or folks proficient in python to volunteer as assistants. 
-- Print out handouts for participants 1-3 days prior to the workshop. We don't need to worry about the printer the morning of the workshop.
-
-## Setup
-- Be sure to have music going when people show up.
-- Have the contents of `welcome.md` showing on the displays for when people show up. Participants should get on the WiFi and create a Kaggle account before the workshop begins.
+## Overview
+"Learn to Code Python for Data Science" is a 4 hour introductory workshop to introduce interested individuals to python and data science.
 
 ## Contents
-- `handout_for_participants.md` is 
-- `welcome.md` 
+- `handout_for_participants.md` is the content for a 4 page handout for participants.
+- `outline.md` is the workshop outline for facilitators
+- `first_notebook_python_fundamentals.ipyb` is an interactive notebook for exploring basic python data types, operators, syntax, and functions.
+- `second_notebook_python_maths.ipyb` contains 
+- `third_notebook_data.ipyb` contains some graphing exercises using matplotlib and seaborn.
