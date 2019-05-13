@@ -29,10 +29,11 @@
 - someone who knows more software engineering than the statisticians
 
 ## 3 act play
-0. Setup and expectations and deliver handout (what we're doing today, why we're here)
-   (maybe) Activity == ice breaker == data collection
-    - take 5 minutes to visit with a person close to you
-    - Have everyone introduce their neighbor
+0. Overview of Data Science (what we're doing today, why we're here)
+   (maybe) 
+    - Review 
+    - Activity: Game called conversation with everybody
+    - Take 5 minutes to visit with a person close to you
     - collect the data on the podium and present it
 
 1. Intro to python fundamentals w/ lots of examples

@@ -1,9 +1,9 @@
 # Intro to Python for Data Science
 
 ## Why are we here?
-1. Overview of Data Science
-2. Intro to programming in Python
-3. Intro to the Codeup experience
+1. Intro to the Codeup experience
+2. Overview of Data Science
+3. Intro to programming in Python and some Data Science libraries
 
 ## Why Codeup?
 1. Focus on student outcomes
@@ -11,7 +11,7 @@
 3. Immersion works. Full-time, live, in-person instruction for 5 months works.
 
 ### What is Data Science?
-- Interdisciplinary applied science at the intersection of programming, statistics, and business/domain expertise.
+- Interdisciplinary applied science at the intersection of programming, statistics, and business
 - The application of the scientific method of hypothesis-experiment-analyze-repeat to analyze and infer outcomes from data. 
 - A broad description of approaches ranging from business analysis and visualizations to machine learning and deep neural network analysis.
 - An increasingly accessible field
@@ -48,6 +48,7 @@
 - Excel, R, SAS, SPSS, or any other statistical analysis tools
 - Everything you need to know about Python or statistics
 - 5 months worth of practice, exercises, training, and mentoring
+- Perceptrons, neural networks, or deep learning (too much for a 4 hour intro)
 
 ### The five questions Data Science can answer
 
@@ -75,7 +76,7 @@
 
 - Recommender Systems - netflix, amazon shopping
 
-- Neural Networks / Deep Learning - image recognition, iPhone X face id
+- Neural Networks / Deep Learning - image recognition, face recognition
 
 
 ## Intro to Python

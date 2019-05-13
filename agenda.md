@@ -14,7 +14,7 @@
 
 1. Intro to Data Science, short break around 10:15am
 
-2. Intro to Python programming
+2. Intro to programming in Python
 
 3. Lunch break
 
