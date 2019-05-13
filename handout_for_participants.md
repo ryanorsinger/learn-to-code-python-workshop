@@ -1,8 +1,8 @@
 # Intro to Python for Data Science
 
 ## Why are we here?
-1. Intro to coding in Python
-2. Intro to data science using Python
+1. Overview of Data Science
+2. Intro to programming in Python
 3. Intro to the Codeup experience
 
 ## Why Codeup?
@@ -17,11 +17,11 @@
 - An increasingly accessible field
 
 ### What *isn't* Data Science?
-- Only statistics or only mathematics (Although we let the computer do the math!)
+- Only statistics or only mathematics: let the computer compute and the people think
 - Magic or inaccessible
 
 ### Isn't data science just statistics?
-- "Future of Data Analysis" by Tukey, `https://projecteuclid.org/euclid.aoms/1177704711`
+- "Future of Data Analysis", Tukey 1962, `https://projecteuclid.org/euclid.aoms/1177704711`
 - "50 Years of Data Science" by Donoho, `https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf`
 
 ### 3 keys to success that students get from Codeup
@@ -80,8 +80,6 @@
 
 ## Intro to Python
 
-### What is Python, why should you care?
-
 Python is a high-level, dynamic, interpreted programming language that has gained a lot of popularity in the data science community.
 
 - General purpose programming language
@@ -90,38 +88,36 @@ Python is a high-level, dynamic, interpreted programming language that has gaine
 - Rapid development cycle, stable libraries, rich ecosystem
 
 ## Setup your Python learning environment
-
 1. Create an account on `https://kaggle.com`
 2. Go to `https://www.kaggle.com/ryanorsinger/intro-to-python`
 3. Click "Fork" to make your own copy so you can experiment.
+4. We will be running Python code inside a "Jupyter Notebook"
 
 ### Using Jupyter Notebooks
 
-- `shift + enter` to run a cell of code. 
-- Notebooks have command mode and edit mode
 - Click into a cell to enter edit mode. You can edit text or edit code.
+- `shift + enter` to run a cell of code. 
+- Notebooks have command mode and edit mode`
 - From edit mode, type the `esc` key to enter command mode.
 - Type `h` in command mode to get a list of keyboard shortcuts
 
 ### Data types and values
 
-- Booleans (True or False values)
-- Numbers (integers and floats)
+- Booleans (True or False values) denoted by `True` and `False`
+- Numbers (integers and floats) `23`, `-5`, `3.141`, `0`
 - Strings (text contained inside of 'single' or "double" quotation marks)
-- None (signifies the absence of value)
+- `None` (signifies the absence of value)
 - Functions
 - Sequences
     - lists are denoted by square brackets `[1, 2, 3]`
-    - tuples `(1, 2, 3, 4, 5)`
+    - tuples `(1, 2, 3, 4, 5)` are immutable lists
     - sets `{1, 2, 3}` 
     - dictionaries
-- Objects
 
 ### Operators and the results of operations 
 
-Operators in programming languages are like math operators like +, -, *, /, etc...
-
-In programming, operators return a value with a data type.
+- Operators in programming languages are like math operators like +, -, *, /, etc...
+- In programming, operators return a value with a data type.
 
 `x = 2` The single equals symbol is called the `assignment operator`. It assigns variables
 
