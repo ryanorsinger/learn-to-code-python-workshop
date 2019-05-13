@@ -22,13 +22,12 @@
 
 ### Isn't data science just statistics?
 - "Future of Data Analysis" by Tukey, `https://projecteuclid.org/euclid.aoms/1177704711`
-- "50 years of data science" by Donoho, `https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf`
+- "50 Years of Data Science" by Donoho, `https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf`
 
 ### 3 keys to success that students get from Codeup
 1. In addition to learning data science, students learn how to continue learning data science into the future
 2. How to form and ask effective questions, find your own answers, and collaborate in the face of uncertainty (how to get really good at googling stuff and collaborating with people)
 3. How to debug and troubleshoot using the scientific method
-
 
 ### 5 Ways to get the most out of this workshop
 1. Engage with the material, engage with others
