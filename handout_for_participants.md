@@ -78,8 +78,7 @@
 
 - Neural Networks / Deep Learning - image recognition, face recognition
 
-
-## Intro to Python
+## Intro to Programming in Python
 
 Python is a high-level, dynamic, interpreted programming language that has gained a lot of popularity in the data science community.
 
@@ -98,7 +97,7 @@ Python is a high-level, dynamic, interpreted programming language that has gaine
 
 - Click into a cell to enter edit mode. You can edit text or edit code.
 - `shift + enter` to run a cell of code. 
-- Notebooks have command mode and edit mode`
+- Notebooks have command mode and edit mode
 - From edit mode, type the `esc` key to enter command mode.
 - Type `h` in command mode to get a list of keyboard shortcuts
 
@@ -118,13 +117,15 @@ Python is a high-level, dynamic, interpreted programming language that has gaine
 ### Operators and the results of operations 
 
 - Operators in programming languages are like math operators like +, -, *, /, etc...
-- In programming, operators return a value with a data type.
+- In programming, operators return a value with a data type. All values have a data type.
 
-`x = 2` The single equals symbol is called the `assignment operator`. It assigns variables
+`x = 2` The single equals symbol is called the `assignment operator`. It assigns variables their values
 
 Some "Boolean operators" are `and`, `or`, and `not`. 
 
 "Comparisson operators" compare values and return a `True` or `False`.
+
+### Assignment and reassignment
 
 ### Functions
 
