@@ -48,7 +48,7 @@
 - Excel, R, SAS, SPSS, or any other statistical analysis tools
 - Everything you need to know about Python or statistics
 - 5 months worth of practice, exercises, training, and mentoring
-- Perceptrons, neural networks, or deep learning (too much for a 4 hour intro)
+- Perceptrons, neural networks, and deep learning (too much for a 4 hour intro)
 
 ### The five questions Data Science can answer
 
