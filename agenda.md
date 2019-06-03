@@ -8,7 +8,7 @@
 
 ## Agenda for the day
 0. Before we begin: 
-    - Get yourself a handout
+    - Get yourself a handout and begin reading
     - Connect your WiFi to Codeup_Guest, the password is codeupguest
     - Create an account on Kaggle.com
 

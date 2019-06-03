@@ -3,7 +3,7 @@
 ## Why are we here?
 1. Intro to the Codeup experience
 2. Overview of Data Science
-3. Intro to programming in Python and some Data Science libraries
+3. Intro to programming in Python and Data Science libraries
 
 ## Why Codeup?
 1. Focus on student outcomes
@@ -45,7 +45,7 @@
 6. Time to practice with the material including guidance and support on exercises
 
 ### What we will *not* cover today
-- Excel, R, SAS, SPSS, or any other statistical analysis tools
+- Excel, R, SAS, SPSS, or other statistical analysis tools
 - Everything you need to know about Python or statistics
 - 5 months worth of practice, exercises, training, and mentoring
 - Perceptrons, neural networks, and deep learning (too much for a 4 hour intro)
@@ -83,7 +83,7 @@
 Python is a high-level, dynamic, interpreted programming language that has gained a lot of popularity in the data science community.
 
 - General purpose programming language
-- One of the most beginner-friendly languages
+- One of the most beginner-friendly languages because it is close to natural language.
 - Industrial strength language for everything from heavy industry to PhD research
 - Rapid development cycle, stable libraries, rich ecosystem
 
@@ -105,27 +105,48 @@ Python is a high-level, dynamic, interpreted programming language that has gaine
 
 - Booleans (True or False values) denoted by `True` and `False`
 - Numbers (integers and floats) `23`, `-5`, `3.141`, `0`
-- Strings (text contained inside of 'single' or "double" quotation marks)
+- Strings (text contained inside of 'single' or "double" quotation marks) `"hello"`
 - `None` (signifies the absence of value)
-- Functions
 - Sequences
-    - lists are denoted by square brackets `[1, 2, 3]`
-    - tuples `(1, 2, 3, 4, 5)` are immutable lists
-    - sets `{1, 2, 3}` 
-    - dictionaries
+
+    - lists are denoted by square brackets `[1, 2, 3]`. Lists are mutable.
+
+    - tuples `(1, 2, 3, 4, 5)` are immutable lists.
+
+    - sets `{1, 2, 3}` hold only unique values and support set operations
+
+      - union: `{1, 2}.union({2, 3})` is `{1, 2, 3}`
+      - intersection:  `{1,2}.intersection({2,3})` is `{2}`, etc...
+
+    - Dictionaries are labeled lists of key => values. `{"vin": "MC3178", "make": "toyota"}`
+
+    - We combine data types to have nested structures. For example, data that you can visualize on a spreadsheet could be a list of lists or a list of dictionaries. 
+
+      ```python
+      # What are the data types involved in the following example?
+      [{"id": 1, "username":"GraceHopper"}, 
+       {"id": 2, "username":"AdaLovelace"}]
+      ```
+
+    - Functions: sequences of instructions that operate on inputs to produce outputs.
 
 ### Operators and the results of operations 
 
-- Operators in programming languages are like math operators like +, -, *, /, etc...
-- In programming, operators return a value with a data type. All values have a data type.
+Operators in programming languages are like math operators like `+`, `-`, `*`, `/`, etc...
 
-`x = 2` The single equals symbol is called the `assignment operator`. It assigns variables their values
+In programming, operators return a value with a data type. All values have a data type.
 
-Some "Boolean operators" are `and`, `or`, and `not`. 
+Boolean operators are represented by `and`, `or`, `not`
 
 "Comparisson operators" compare values and return a `True` or `False`.
 
+`==` compares values on each side and returns `True` or `False`. Same with `!=`,`<`, `>`. `<=,` `>=`
+
+Examples: `2 == 2` returns `True`, `2 > 3` is `False`, `3 > 2` is `True`, etc...
+
 ### Assignment and reassignment
+
+`x = 2` The single equals symbol is called the `assignment operator`. It assigns variables to point to values. If `x` already points to a value, then `x = 5` reassigns `x`  to be `5`.
 
 ### Functions
 
@@ -135,22 +156,14 @@ Functions are reusable blocks of code meant to execute a command or scupt data. 
 # This block of code is how we would define a function to square a number
 def square(input):    
     return input*input
+result = square(5)    # calculates 5 squared
+square(square(5))     # returns the square of the square of 5, or 25**2
 ```
 
-```python
-# We assign the result of calling/executing a function to variables
-fiveSquared = square(5)    # calculates 5 squared
-result = square(square(5)) # calculates the square of 5 squared.
-```
+### Part II - Data Science tools in Python
 
-<hr>
-
-### Part II - Math notation explained with Python
-
-- Goto `https://www.kaggle.com/ryanorsinger/mathematical-notation-in-python`
-- Click "Fork" to make your own copy so you can experiment.
-
-### Part III - Data Science libraries for Python
 
 - Goto `https://www.kaggle.com/ryanorsinger/data-science-intro-in-python`
 - Click "Fork" to make your own copy so you can experiment. 
+
+> "Programming languages allow us to formalize instructions and express logic, business rules, mathematics, processes, and automation instructions in one single language in a way where computers follows those instructions to produce utility for people." - Ryan Orsinger
