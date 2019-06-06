@@ -3,7 +3,7 @@
 ## Why are we here?
 1. Intro to the Codeup experience
 2. Overview of Data Science
-3. Intro to programming in Python and Data Science libraries
+3. Intro to programming in Python
 
 ## Why Codeup?
 1. Focus on student outcomes
@@ -96,7 +96,7 @@ Python is a high-level, dynamic, interpreted programming language that has gaine
 ### Using Jupyter Notebooks
 
 - Click into a cell to enter edit mode. You can edit text or edit code.
-- `shift + enter` to run a cell of code. 
+- `shift + enter` to run a cell of code or click the play icon next to the cell.
 - Notebooks have command mode and edit mode
 - From edit mode, type the `esc` key to enter command mode.
 - Type `h` in command mode to get a list of keyboard shortcuts
@@ -155,15 +155,15 @@ Functions are reusable blocks of code meant to execute a command or scupt data. 
 ```python
 # This block of code is how we would define a function to square a number
 def square(input):    
-    return input*input
-result = square(5)    # calculates 5 squared
-square(square(5))     # returns the square of the square of 5, or 25**2
+    return input * input
+print(square(5))           # prints 5 squared
+print(square(square(5)))   # prints the result of squaring the square of five.
 ```
 
-### Part II - Data Science tools in Python
+### Much more practice!
 
 
-- Goto `https://www.kaggle.com/ryanorsinger/data-science-intro-in-python`
+- Goto `https://www.kaggle.com/ryanorsinger/101-exercises`
 - Click "Fork" to make your own copy so you can experiment. 
 
 > "Programming languages allow us to formalize instructions and express logic, business rules, mathematics, processes, and automation instructions in one single language in a way where computers follows those instructions to produce utility for people." - Ryan Orsinger
