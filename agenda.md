@@ -1,4 +1,4 @@
-# Welcome to Learn to Code Python for Data Science
+# Intro to Data Science and Python Workshop
 
 ## Thought for the Day
 "If you can't solve a problem,
@@ -7,9 +7,12 @@
             - Polya
 
 ## Agenda for the day
+0. WiFi Connection Details
+    username is Codeup_Guest
+    password is codeupguest
+
 0. Before we begin: 
     - Get yourself a handout and begin reading
-    - Connect your WiFi to Codeup_Guest, the password is codeupguest
     - Create an account on Kaggle.com
 
 1. Intro to Data Science
@@ -20,4 +23,4 @@
 
 4. Lunch break @ 11:30ish
 
-4. Data Science in Python, 12:00pm
+5. More practice w/ Python

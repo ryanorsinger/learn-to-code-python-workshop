@@ -90,8 +90,8 @@ Python is a high-level, dynamic, interpreted programming language that has gaine
 ## Setup your Python learning environment
 1. Create an account on `https://kaggle.com`
 2. Go to `https://www.kaggle.com/ryanorsinger/intro-to-python`
-3. Click "Fork" to make your own copy so you can experiment.
-4. We will be running Python code inside a "Jupyter Notebook"
+3. Click "Copy and Edit" to make your own copy so you can experiment.
+4. We will be running Python code inside a "Kernel", which is a special document.
 
 ### Using Jupyter Notebooks
 
@@ -164,6 +164,6 @@ print(square(square(5)))   # prints the result of squaring the square of five.
 
 
 - Goto `https://www.kaggle.com/ryanorsinger/101-exercises`
-- Click "Fork" to make your own copy so you can experiment. 
+- Click "Copy and Edit" to make your own copy so you can experiment. 
 
 > "Programming languages allow us to formalize instructions and express logic, business rules, mathematics, processes, and automation instructions in one single language in a way where computers follows those instructions to produce utility for people." - Ryan Orsinger
