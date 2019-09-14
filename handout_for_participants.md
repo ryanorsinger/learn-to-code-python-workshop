@@ -36,13 +36,12 @@
 4. Treat each other with excellence
 5. Try things out! Run code! Experiment with the material!
 
-### 6 things you will get from today's workshop
+### 5 Takeaways you will get from today's workshop
 1. An introduction to the Codeup experience
-2. Introduction to Python fundamentals
-3. Explanation of some mathematical notation in terms of Python and English
-4. Intro to popular Python data science libraries and methods
-5. Instructional materials and your own copies of the prepared learning environments
-6. Time to practice with the material including guidance and support on exercises
+2. Overview of the fundamentals of Data Science
+3. Intro to programming with Python
+4. Instructional materials and your own copies of the prepared learning environments
+5. Homework to keep practicing your craft
 
 ### What we will *not* cover today
 - Excel, R, SAS, SPSS, or other statistical analysis tools
@@ -77,6 +76,8 @@
 - Recommender Systems - netflix, amazon shopping
 
 - Neural Networks / Deep Learning - image recognition, face recognition
+
+
 
 ## Intro to Programming in Python
 
