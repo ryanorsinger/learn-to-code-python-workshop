@@ -61,7 +61,7 @@
 - 5 months worth of practice, exercises, training, and mentoring
 - Perceptrons, neural networks, and deep learning (too much for a 4 hour intro)
 
-### The five questions Data Science can answer
+### The five kinds of questions Data Science can answer
 
 1. ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
