@@ -1,12 +1,10 @@
 # Intro to Data Science and Python Workshop
 
 ## Thought for the Day
-Mathematics, you see, is not a spectator sport.
-To understand mathematics means to be able to do mathematics.
-And what does it mean [to be] doing mathematics?
-In the first place, it means to be able to solve mathematical problems.
-- Polya
-
+"If you can't solve a problem,
+    then there is an easier problem you can solve: 
+        find it."
+            - Polya
 
 ## Agenda for the day
 0. WiFi Connection Details
@@ -14,7 +12,7 @@ In the first place, it means to be able to solve mathematical problems.
     password is codeupguest
 
 0. Before we begin: 
-    - Get yourself a handout and begin reading
+    - Get yoursealf a handout and begin reading
     - Create an account on Kaggle.com
 
 1. Intro to Data Science
