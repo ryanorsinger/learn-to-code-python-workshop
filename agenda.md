@@ -7,9 +7,8 @@
             - Polya
 
 ## Agenda for the day
-0. WiFi Connection Details
-    username is Codeup_Guest
-    password is codeupguest
+0. WiFi Connection Details:
+    
 
 0. Before we begin: 
     - Get yoursealf a handout and begin reading
