@@ -94,6 +94,6 @@ Python Language Reference - <https://docs.python.org/3/reference/index.html#refe
 
 - Keep learning this material for two *huge* reasons:	
   1. The ability to program, to read/write code, sets you apart in the marketplace.
-  2. Data is the new oil. 
+  2. Data literacy is a highly marketable skill because *data is the new oil*.
 
 - Goto `https://www.kaggle.com/ryanorsinger/101-exercises` for deep practice.

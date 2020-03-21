@@ -7,19 +7,19 @@
             - Polya
 
 ## Agenda for the day
-0. WiFi Connection Details:
-    
-
-0. Before we begin: 
-    - Get yoursealf a handout and begin reading
+0. Getting Setup for the day
+    - Download the handout from 
     - Create an account on Kaggle.com
 
-1. Intro to Data Science
+Hunt the Good Stuff Exercise
 
-2. Short break, mid-morning
+2. Intro to Data Science
 
-3. Intro to programming in Python
+Short break, mid-morning
 
-4. Lunch break @ 11:40ish
+Intro to programming in Python
 
-5. More hands-on practice w/ Python
+Lunch break @ 12:00pm
+
+
+More hands-on practice w/ Python
