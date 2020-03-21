@@ -28,9 +28,10 @@
 - An increasingly accessible field
 
 ### Isn't data science just statistics?
-- Both yes and no.
 - "Future of Data Analysis", Tukey 1962, `https://projecteuclid.org/euclid.aoms/1177704711`
+
 - "50 Years of Data Science" by Donoho, `https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf`
+
 
 ### What *isn't* Data Science?
 
