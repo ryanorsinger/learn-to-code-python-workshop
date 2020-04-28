@@ -7,19 +7,21 @@
             - Polya
 
 ## Agenda for the day
-0. Getting Setup for the day
-    - Download the handout from 
-    - Create an account on Kaggle.com
-
-Hunt the Good Stuff Exercise
+0. Create yourself an account on Kaggle.com
 
 2. Intro to Data Science
 
-Short break, mid-morning
+3. Data to Action 
 
-Intro to programming in Python
+<break>
 
-Lunch break @ 12:00pm
+4. Intro to programming basics in Python
 
+5. Lunch break at 12:00 - 12:30, hangout and ask questions (30 minutes or so)
+    - Take a break and grab some lunch
+    - This is a great time to ask specific questions about the program
 
-More hands-on practice w/ Python
+6. Much more practice w/ Python
+
+<break>
+7. Closing thoughts
