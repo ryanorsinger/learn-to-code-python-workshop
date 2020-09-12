@@ -9,19 +9,22 @@
 ## Agenda for the day
 0. Create yourself an account on Kaggle.com
 
-2. Intro to Data Science
+1. Overview of Data Science
 
-3. Data to Action 
+2. Intro to programming basics in Python
+    - Data types
+    - Operators
+    - Logical operations
+    - Math operators
 
-<break>
-
-4. Intro to programming basics in Python
-
-5. Lunch break at 12:00 - 12:30, hangout and ask questions (30 minutes or so)
+3. Lunch break at 12:00 - 12:30, hangout and ask questions (30 minutes or so)
     - Take a break and grab some lunch
     - This is a great time to ask specific questions about the program
 
-6. Much more practice w/ Python
+4. Much more practice w/ Python
+    - Put the basics together
+    - Write user-defined functions to solve problems
 
-<break>
-7. Closing thoughts
+5. Next steps
+    - How to keep learning Python
+    - Where do we go from here?

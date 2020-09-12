@@ -1,8 +1,6 @@
 # Slide Content
 
 ## Welcome/Setup slide (Office Hours)
-- Wifi network: `Codeup`
-- Password is `Geekdom1100`
 - Create an account on `kaggle.com`. This is where we will be setting up our development environment.
 - Take a moment to familiarize yourself with the handout on your desk. This is our roadmap for the day.
 

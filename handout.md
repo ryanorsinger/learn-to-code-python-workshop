@@ -3,9 +3,9 @@
 ## Why are we here?
 1. Intro to the Codeup experience
 2. Overview of Data Science
-   - What is _Data Science_?
-   - How industry utilizing Data Science
-   - How you can get started learning this field
+   - What is Data Science?
+   - How industry utilizing Data Science?
+   - How you can get started learning this field?
 3. Hands-on workshop introduction to programming in Python
    - Intro to the Python programming language
    - Example problems, practice exercises, and guidance
